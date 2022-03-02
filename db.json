@@ -16,7 +16,10 @@
       "fees": "Paid-3.1.2022",
       "dob": "2001-03-13",
       "address": "30/1/1/1 kashinath Chatterjee Lane shibpur howrah -711102",
-      "dept": "AEIE,4th"
+      "dept": "AEIE,4th",
+      "ca": "25",
+      "pca": "40",
+      "moocs": "5"
     },
     {
       "name": "Prem Ranjan Paul",
@@ -25,8 +28,19 @@
       "phone": "7980585104",
       "website": "github.com/prem",
       "id": 8,
+      "placed": "Placed",
       "marks": "7",
-      "gen": "Normal"
+      "gen": "Normal",
+      "roll": "18/5004",
+      "coca": "35",
+      "books": "5 books+2 notes",
+      "fees": "Paid-3.1.2022",
+      "dob": "2001-03-13",
+      "address": "30 tikiapara lane",
+      "dept": "AEIE,4th",
+      "ca": "25",
+      "pca": "40",
+      "moocs": "5"
     },
     {
       "name": "Srijita Ghoshal",
@@ -35,10 +49,19 @@
       "phone": "23232",
       "website": "github.com/baner",
       "marks": "8.3",
+      "gen": "Normal",
+      "roll": "18/5004",
       "id": 9,
+      "placed": "Placed",
       "coca": "Project exhibit, Drawing, Likhwavat, 2 webinars",
       "books": "5 from book bank+1 Math",
-      "fees": "Paid(upto 8th)"
+      "fees": "Paid(upto 8th)",
+      "dob": "2001-03-13",
+      "address": "30 tikiapara lane",
+      "dept": "AEIE,4th",
+      "ca": "25",
+      "pca": "40",
+      "moocs": "5"
     },
     {
       "name": "Soubhik Banerjee",
@@ -56,6 +79,9 @@
       "dept": "AEIE,4th",
       "placed": "Unplaced",
       "gen": "Lateral",
+      "ca": "25",
+      "pca": "40",
+      "moocs": "5",
       "id": 10
     },
     {
@@ -74,6 +100,9 @@
       "dept": "",
       "placed": "",
       "gen": "",
+      "ca": "25",
+      "pca": "40",
+      "moocs": "5",
       "id": 11
     },
     {
@@ -92,6 +121,9 @@
       "dept": "",
       "placed": "",
       "gen": "",
+      "ca": "25",
+      "pca": "40",
+      "moocs": "5",
       "id": 12
     },
     {
@@ -110,6 +142,9 @@
       "dept": "",
       "placed": "",
       "gen": "",
+      "ca": "25",
+      "pca": "40",
+      "moocs": "5",
       "id": 13
     }
   ]
